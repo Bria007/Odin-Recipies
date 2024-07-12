@@ -1,3 +1,3 @@
 # odin-recipies
 
-my favorite recipie is one from my grandmother. I asked for the recipie before she died and she never gave it to me. 
+This is a record of my progess with the odin project so far. Building a webpage about recipies!

@@ -1,1 +1,0 @@
-This is the text for Odin-Recipies. Completed during the github repo setup. 
